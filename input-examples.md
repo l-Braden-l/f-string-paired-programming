@@ -9,7 +9,7 @@ If you don't convert text input into a number when you want to do math in Python
 ```python
 # Example 1
 # Prompting the user to enter the name of the town or city they live in
-# TIP: Always give the user an example of the input you're asking them for
+# TIP: Always give the user an example of the input you're prompting them for
 
 city = input('Enter the name of the city you live in: (Example: Milwaukee)\n')
 
