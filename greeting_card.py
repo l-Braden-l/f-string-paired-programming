@@ -1,5 +1,5 @@
-# Student name
-# Current date
+# Braden Leach
+# Sep 10 2024
 # f-String Greeting Card 
 
 '''
@@ -19,3 +19,8 @@ Directions:
 
 6. Execute (run) your script in Visual Studio Code and correct any errors.
 '''
+
+first_name = input('Enter your name!: (example: Tim)\n')
+occasion = input('enter what the occasion is for: (example: birthday)\n')
+custom_message = input('enter gretting message: (example: Dear marry, have a great birthday!)')
+print (f"\n{first_name} is having a {occasion} party this weekend!{custom_message}, love Braden")
