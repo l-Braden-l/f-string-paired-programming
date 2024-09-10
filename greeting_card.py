@@ -19,7 +19,6 @@ Directions:
 
 6. Execute (run) your script in Visual Studio Code and correct any errors.
 '''
-
 first_name = input('Enter your name!: (example: Tim)\n')
 occasion = input('enter what the occasion is for: (example: birthday)\n')
 custom_message = input('enter gretting message: (example: Dear marry, have a great birthday!)')
