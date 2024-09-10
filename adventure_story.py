@@ -1,5 +1,5 @@
-# Student name
-# Current date
+# Braden Leach
+# Sep 10 2024
 # f-String Adventure Story
 
 '''
@@ -21,3 +21,14 @@ Directions:
 
 6. Execute (run) your script in Visual Studio Code and correct any errors.
 '''
+#variables
+first_name = input('Enter your name hero!: (example: Richard)\n')
+setting = input('Enter your setting of the story!: (example: Forest)\n')
+object = input('Enter what the hero finds on there adventure!: (example: Sword)\n')
+story = (f"{first_name}\n{setting}\n{object}\n")
+#printed
+print(f'Your name is: {first_name} and your setting you chose was{setting}. Along the journey you happen to find a {object}.')
+
+
+
+
