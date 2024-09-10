@@ -10,6 +10,11 @@ By the end of this lesson, you'll:
 - be able to use the `input( )` function to prompt the user for information to add to an f-string
 - be able to use an f-string in your Python script
 
+### Resources
+
+- See p. 21 in the *Python Crash Course* book
+- See also this wiki page about [using variables in strings](https://github.com/manfredspitze/print-function-starter/wiki/Using-&-Printing-Variables-in-Strings)
+
 ### Directions
 
 - Work with your assigned partner
